@@ -35,10 +35,10 @@ main {
 }
 
 #couple-names {
-  margin: 0 auto;
   font-family: bison;
   font-size: 80px;
   letter-spacing: 15px;
+  margin-left: 20px;
   /* width: 90%; */
 }
 
