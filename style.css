@@ -11,7 +11,7 @@
 body {
   justify-content: center;
   background-image: url('resources/images/IMG_20200320_232002_147.jpg');
-  background-size: 2000px;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
   overflow: hidden;
