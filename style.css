@@ -1,16 +1,16 @@
 
 @font-face { font-family: Bison; 
-  src: url('/resources/fonts/Bison-Bold.ttf') 
+  src: url('resources/fonts/Bison-Bold.ttf') 
 }
 
 @font-face { font-family: Kiona; 
-  src: url('/resources/fonts/Kiona-Regular.ttf'); 
+  src: url('resources/fonts/Kiona-Regular.ttf'); 
   /* src: url('/Kiona-Itallic.ttf');  */
 } 
 
 body {
   justify-content: center;
-  background-image: url('/resources/images/IMG_20200320_232002_147.jpg');
+  background-image: url('resources/images/IMG_20200320_232002_147.jpg');
   background-size: 2000px;
   background-repeat: no-repeat;
   background-position: center center;
