@@ -36,7 +36,7 @@ main {
 
 #couple-names {
   font-family: bison;
-  font-size: 80px;
+  font-size: 75px;
   letter-spacing: 15px;
   margin-left: 20px;
   /* width: 90%; */
@@ -100,18 +100,17 @@ input[type=submit] {
   border-radius: 10px;
   color: black;
   padding: 5px 10px 7px 10px;
+  margin: 5px 5px 5px 5px;
   text-decoration: none;
   font-family: bison, monospace;
   font-size: 16px;
-  margin: 4px 2px;
   cursor: pointer;
   transition: width 1s ease-in-out;
-  transition: height 1s ease-in-out;
 }
 
 input[type=submit]:hover {
-  width: 55px;
-  height: 40px;
+  padding: 10px 15px 12px 15px;
+  margin: 0px 0px 0px 0px;
 }
 
 @media only screen and (max-width: 400px) {
