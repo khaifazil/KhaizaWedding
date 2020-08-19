@@ -8,6 +8,12 @@
   /* src: url('/Kiona-Itallic.ttf');  */
 } 
 
+input {
+  -webkit- appearance: none;
+  -moz- appearance: none;
+  appearance: none;
+  }
+
 body {
   justify-content: center;
   background-image: url('resources/images/IMG_20200320_232002_147.jpg');
