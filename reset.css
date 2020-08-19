@@ -86,3 +86,9 @@ hr {
 input, select {
  vertical-align:middle;
 }
+
+input {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  }
