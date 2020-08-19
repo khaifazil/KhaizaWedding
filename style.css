@@ -42,7 +42,7 @@ main {
   /* width: 90%; */
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 430px) {
   main {
     margin-top: -40px;
   }
@@ -113,7 +113,7 @@ input[type=submit]:hover {
   margin: 0px 0px 0px 0px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 425px) {
   form {
     display: flex;
     flex-direction: column;
