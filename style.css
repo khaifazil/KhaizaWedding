@@ -81,6 +81,7 @@ form {
   width: 150px;
   border: none; 
   border-bottom: 1px solid black;
+  border-radius: 0;
   background-color: transparent;
   font-family: kiona, monospace, sans-serif;
   font-weight: bolder;
@@ -97,6 +98,7 @@ form {
   width: 115px;
   border: none; 
   border-bottom: 1px solid black;
+  border-radius: 0;
   background-color: transparent;
   font-family: kiona, monospace, sans-serif;
   font-weight: bolder;
